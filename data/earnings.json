@@ -1,0 +1,815 @@
+{
+ "updated": "2026-11-14T18:50:00Z",
+ "events": [
+  {
+   "t": "VICR",
+   "name": "Vicor",
+   "sector": "Power chips",
+   "q": "Q3 2026",
+   "date": "2026-10-20",
+   "time": "BMO",
+   "at": "2026-10-20T07:00:00-04:00",
+   "confirmed": true,
+   "est": {
+    "eps": 1.39,
+    "rev": 187200000.0
+   },
+   "act": {
+    "eps": 1.33,
+    "rev": 197100000.0,
+    "move": 11.3,
+    "moveNote": "on the day"
+   },
+   "hist": [
+    "M"
+   ],
+   "note": "Revenue beat but EPS came in below consensus. Backlog reached $406M, up 166% from a year earlier.",
+   "src": [
+    [
+     "Zacks",
+     "https://www.zacks.com/stock/news/3013064/vicor-corporation-shares-gain-45-on-strong-q3-earnings-growth"
+    ],
+    [
+     "Motley Fool",
+     "https://www.fool.com/investing/2026/10/20/why-vicor-shares-are-soaring-today/"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "MSFT",
+   "name": "Microsoft",
+   "sector": "Cloud / AI",
+   "q": "Q1 FY27",
+   "date": "2026-10-28",
+   "time": "AMC",
+   "at": "2026-10-28T16:05:00-04:00",
+   "confirmed": true,
+   "est": {
+    "eps": 4.72,
+    "rev": 90750000000.0
+   },
+   "act": {
+    "eps": 4.89,
+    "rev": 92280000000.0,
+    "move": 4.0,
+    "moveNote": "after hours"
+   },
+   "hist": [
+    "B"
+   ],
+   "note": "Azure revenue grew 48% to $33.2B. Next quarter guided to $96B\u2013$97.1B.",
+   "src": [
+    [
+     "24/7 Wall St.",
+     "https://247wallst.com/cards/microsoft-q1-2027-earnings-msft-01m6223bcjxyqzvby9cw8yzzqb"
+    ],
+    [
+     "SiliconANGLE",
+     "https://siliconangle.com/?p=852356"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "AMD",
+   "name": "Advanced Micro Devices",
+   "sector": "AI chips",
+   "q": "Q3 2026",
+   "date": "2026-11-03",
+   "time": "AMC",
+   "at": "2026-11-03T16:05:00-05:00",
+   "confirmed": true,
+   "est": {
+    "eps": 1.94,
+    "rev": 13110000000.0
+   },
+   "act": {
+    "eps": 2.09,
+    "rev": 13380000000.0,
+    "move": 7.2,
+    "moveNote": "after hours"
+   },
+   "hist": [
+    "B"
+   ],
+   "guide": "Q4 revenue about $17B \u00b13%",
+   "note": "Data Center revenue hit a record $8.5B, up 97% year over year.",
+   "src": [
+    [
+     "StockStory",
+     "https://stockstory.org/us/stocks/nasdaq/amd/news/earnings/amd-nasdaqamd-surprises-with-q3-sales-stock-soars"
+    ],
+    [
+     "Constellation Research",
+     "https://www.constellationr.com/insights/news/amd-q3-shines-data-center-revenue-nearly-doubles"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "SMCI",
+   "name": "Super Micro Computer",
+   "sector": "AI servers",
+   "q": "Q1 FY27",
+   "date": "2026-11-03",
+   "time": "AMC",
+   "at": "2026-11-03T16:05:00-05:00",
+   "confirmed": true,
+   "est": {
+    "eps": 1.16,
+    "rev": 15770000000.0
+   },
+   "act": {
+    "eps": 1.81,
+    "rev": 19950000000.0,
+    "move": 10.0,
+    "moveNote": "after hours, approx."
+   },
+   "hist": [
+    "B"
+   ],
+   "guide": "Q2 revenue $19.5B\u2013$21.5B",
+   "note": "Revenue nearly 4\u00d7 a year earlier. Figures are preliminary and unaudited.",
+   "src": [
+    [
+     "Earnings Whispers",
+     "https://www.earningswhispers.com/epsdetails/SMCI/202609"
+    ],
+    [
+     "SEC filing",
+     "https://www.sec.gov/Archives/edgar/data/0001375365/000137536526000026/exhibit991_20260930.htm"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "ALAB",
+   "name": "Astera Labs",
+   "sector": "AI connectivity",
+   "q": "Q3 2026",
+   "date": "2026-11-03",
+   "time": "AMC",
+   "at": "2026-11-03T16:05:00-05:00",
+   "confirmed": true,
+   "est": {
+    "eps": 1.19,
+    "rev": 551000000.0
+   },
+   "act": {
+    "eps": 1.32,
+    "rev": 584900000.0,
+    "move": 30.0,
+    "moveNote": "next day"
+   },
+   "hist": [
+    "B",
+    "B",
+    "B",
+    "B"
+   ],
+   "guide": "Q4 revenue $730M\u2013$750M",
+   "note": "Record revenue, up 154% year over year, led by Scorpio switches.",
+   "src": [
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/astera-labs-inc-alab-q3-2026-usd-adj-eps-132-exp-119-revenue-5849mln-exp-551mln"
+    ],
+    [
+     "Stocktwits",
+     "https://stocktwits.com/news-articles/markets/equity/alab-stock-jumps-after-price-target-hikes/cJECof5R9h"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "NVTS",
+   "name": "Navitas Semiconductor",
+   "sector": "Power chips",
+   "q": "Q3 2026",
+   "date": "2026-11-03",
+   "time": "AMC",
+   "at": "2026-11-03T16:05:00-05:00",
+   "confirmed": true,
+   "est": {
+    "eps": -0.04,
+    "rev": 13170000.0
+   },
+   "act": {
+    "eps": -0.03,
+    "rev": 13990000.0,
+    "move": 9.9,
+    "moveNote": "pre-market"
+   },
+   "hist": [
+    "B",
+    "B",
+    "B",
+    "B"
+   ],
+   "guide": "Q4 revenue $15.5M\u2013$16.5M",
+   "note": "Eighth straight quarter beating adjusted EPS estimates.",
+   "src": [
+    [
+     "Benzinga",
+     "https://www.benzinga.com/node/62859781"
+    ],
+    [
+     "24/7 Wall St.",
+     "https://247wallst.com/cards/navitas-semiconductor-q3-2026-earnings-nvts-01m6hm399mnvq0rwktwa20sb3q"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "CEG",
+   "name": "Constellation Energy",
+   "sector": "Nuclear power",
+   "q": "Q3 2026",
+   "date": "2026-11-09",
+   "time": "BMO",
+   "at": "2026-11-09T06:00:00-05:00",
+   "confirmed": true,
+   "est": {
+    "eps": 3.9,
+    "rev": 9230000000.0
+   },
+   "act": {
+    "eps": 5.06,
+    "rev": 9550000000.0,
+    "move": 3.1,
+    "moveNote": "pre-market"
+   },
+   "hist": [
+    "B",
+    "B",
+    "B",
+    "B"
+   ],
+   "guide": "FY26 EPS raised to $12.50\u2013$12.80",
+   "note": "Calpine acquisition drove the jump. Second guidance raise this year.",
+   "src": [
+    [
+     "Constellation",
+     "https://www.constellationenergy.com/news/2026/11/constellation-reports-third-quarter-2026-results.html"
+    ],
+    [
+     "Stocktwits",
+     "https://stocktwits.com/symbol/CEG/earnings"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "HD",
+   "name": "Home Depot",
+   "sector": "Retail",
+   "q": "Q3 2026",
+   "date": "2026-11-17",
+   "time": "BMO",
+   "at": "2026-11-17T06:00:00-05:00",
+   "confirmed": true,
+   "est": {
+    "eps": 3.86,
+    "rev": null
+   },
+   "act": null,
+   "hist": [],
+   "note": "Watch comparable sales against the flat to +2% full-year range.",
+   "src": [
+    [
+     "Simply Wall St",
+     "https://www.webull.com/news/15712615281001472"
+    ],
+    [
+     "Retail preview",
+     "https://news.ifyouspent.com/en/news/retail-earnings-preview-walmart-home-depot-target-november-2026"
+    ]
+   ],
+   "watch": false
+  },
+  {
+   "t": "NVDA",
+   "name": "NVIDIA",
+   "sector": "AI chips",
+   "q": "Q3 FY27",
+   "date": "2026-11-17",
+   "time": "AMC",
+   "at": "2026-11-17T16:20:00-05:00",
+   "confirmed": true,
+   "est": {
+    "eps": 2.47,
+    "rev": 108800000000.0
+   },
+   "act": null,
+   "hist": [
+    "B",
+    "B",
+    "B",
+    "B"
+   ],
+   "guide": "Revenue $108.0B \u00b12%, gross margin 74%",
+   "note": "CFO commentary is posted in writing before the 5pm ET call.",
+   "src": [
+    [
+     "NVIDIA IR",
+     "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
+    ],
+    [
+     "Consensus via MarketBeat",
+     "https://eciks.org/29651-nvidia-fiscal-2027-q3-results"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "PANW",
+   "name": "Palo Alto Networks",
+   "sector": "Cybersecurity",
+   "q": "Q1 FY27",
+   "date": "2026-11-18",
+   "time": "AMC",
+   "at": "2026-11-18T16:05:00-05:00",
+   "confirmed": true,
+   "est": {
+    "eps": 0.97,
+    "rev": 3310000000.0
+   },
+   "act": null,
+   "hist": [
+    "B",
+    "B",
+    "B",
+    "B"
+   ],
+   "guide": "EPS $0.96\u2013$0.98, revenue $3.30B\u2013$3.31B",
+   "note": "Consensus sits at the midpoint of the company's own range, so there is little cushion.",
+   "src": [
+    [
+     "Palo Alto Networks",
+     "https://finviz.com/news/414245/palo-alto-networks-to-announce-fiscal-first-quarter-2027-financial-results-on-wednesday-november-18-2026"
+    ],
+    [
+     "FN2 consensus",
+     "https://fn2.ai/earnings/panw"
+    ],
+    [
+     "Benzinga history",
+     "https://www.benzinga.com/quote/PANW/earnings-forecasts"
+    ]
+   ],
+   "watch": false
+  },
+  {
+   "t": "WMT",
+   "name": "Walmart",
+   "sector": "Retail",
+   "q": "Q3 FY27",
+   "date": "2026-11-19",
+   "time": "BMO",
+   "at": "2026-11-19T08:00:00-05:00",
+   "confirmed": true,
+   "est": {
+    "eps": 0.64,
+    "rev": 187190000000.0
+   },
+   "act": null,
+   "hist": [
+    "B"
+   ],
+   "guide": "Adjusted EPS $0.62\u2013$0.64",
+   "note": "Walmart U.S. comparable sales and operating income growth (+2% to 4% guided) are the numbers to watch.",
+   "src": [
+    [
+     "Hudson Labs",
+     "https://www.hudson-labs.com/research/walmart-q3-2027-earnings-preview-wmt-revenue-guidance-key-factors"
+    ],
+    [
+     "Retail preview",
+     "https://news.ifyouspent.com/en/news/retail-earnings-preview-walmart-home-depot-target-november-2026"
+    ]
+   ],
+   "watch": false
+  },
+  {
+   "t": "MRVL",
+   "name": "Marvell Technology",
+   "sector": "AI chips",
+   "q": "Q3 FY27",
+   "date": "2026-12-01",
+   "time": "AMC",
+   "at": "2026-12-01T16:05:00-05:00",
+   "confirmed": false,
+   "est": {
+    "eps": 1.1,
+    "rev": 3150000000.0
+   },
+   "estNote": "Company guide midpoint",
+   "act": null,
+   "hist": [],
+   "guide": "Revenue $3.15B \u00b15%, EPS $1.05\u2013$1.15",
+   "note": "Date is projected, not yet confirmed by Marvell.",
+   "src": [
+    [
+     "Investor Signals",
+     "https://www.investorsignals.com/research-articles?hideheader=true"
+    ],
+    [
+     "Unusual Whales",
+     "https://unusualwhales.com/stock/MRVL/earnings"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "AVGO",
+   "name": "Broadcom",
+   "sector": "AI chips",
+   "q": "Q4 FY26",
+   "date": "2026-12-09",
+   "time": "AMC",
+   "at": "2026-12-09T16:15:00-05:00",
+   "confirmed": true,
+   "est": {
+    "eps": 3.45,
+    "rev": 35570000000.0
+   },
+   "act": null,
+   "hist": [
+    "B",
+    "B",
+    "B",
+    "B"
+   ],
+   "note": "Fourth quarter and full fiscal 2026. Last quarter beat ($3.03 vs $2.83) but the stock fell 2.7%.",
+   "src": [
+    [
+     "Broadcom IR",
+     "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-fourth-quarter-and-fiscal-year-2026"
+    ],
+    [
+     "ChartRow (Nasdaq consensus)",
+     "https://chartrow.com/quote/avgo/earnings"
+    ],
+    [
+     "Chartmill revenue est.",
+     "https://www.chartmill.com/stock/quote/AVGO/estimates"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "ORCL",
+   "name": "Oracle",
+   "sector": "Cloud / AI",
+   "q": "Q2 FY27",
+   "date": "2026-12-10",
+   "time": "AMC",
+   "at": "2026-12-10T16:05:00-05:00",
+   "confirmed": false,
+   "est": {
+    "eps": 1.93,
+    "rev": 21760000000.0
+   },
+   "act": null,
+   "hist": [
+    "B",
+    "B"
+   ],
+   "note": "Not confirmed. Calendars list anywhere from Dec 8 to Dec 14.",
+   "src": [
+    [
+     "Chartmill",
+     "https://www.chartmill.com/stock/quote/ORCL/estimates"
+    ],
+    [
+     "Finance Calendar",
+     "https://www.financecalendar.com/event/orcl-earnings-september-2026/"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "MU",
+   "name": "Micron Technology",
+   "sector": "Memory",
+   "q": "Q1 FY27",
+   "date": "2026-12-16",
+   "time": "AMC",
+   "at": "2026-12-16T16:05:00-05:00",
+   "confirmed": false,
+   "est": {
+    "eps": 38.15,
+    "rev": 61500000000.0
+   },
+   "estNote": "Company guide midpoint",
+   "act": null,
+   "hist": [
+    "B",
+    "B",
+    "B",
+    "B"
+   ],
+   "guide": "Revenue $61.5B \u00b1$1.5B, EPS $38.15 \u00b1$1.00",
+   "note": "Not confirmed. Micron usually reports in the third week of December.",
+   "src": [
+    [
+     "InvestingCube",
+     "https://www.investingcube.com/shares/micron-earnings-smash-estimates-as-ai-memory-demand-drives-record-revenue-and-strong-2027-outlook/"
+    ],
+    [
+     "Benzinga history",
+     "https://www.benzinga.com/quote/MU/earnings-forecasts"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "TSM",
+   "name": "Taiwan Semiconductor",
+   "sector": "AI chips",
+   "q": "Q3 2026",
+   "date": "2026-10-15",
+   "time": "BMO",
+   "at": "2026-10-15T03:00:00-04:00",
+   "confirmed": true,
+   "est": {
+    "eps": 4.45,
+    "rev": null
+   },
+   "act": {
+    "eps": 4.6,
+    "rev": 46720000000.0,
+    "move": null
+   },
+   "hist": [
+    "B"
+   ],
+   "guide": "Q4 revenue $52.3B\u2013$54.3B",
+   "note": "EPS per ADR. Revenue up 41% in US dollars; 2nm reached 8% of wafer revenue.",
+   "src": [
+    [
+     "Earnings Whispers",
+     "https://www.earningswhispers.com/epsdetails/TSM"
+    ],
+    [
+     "TSMC filing",
+     "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "META",
+   "name": "Meta Platforms",
+   "sector": "AI / ads",
+   "q": "Q3 2026",
+   "date": "2026-10-21",
+   "time": "AMC",
+   "at": "2026-10-21T16:05:00-04:00",
+   "confirmed": true,
+   "est": {
+    "eps": 6.52,
+    "rev": 63380000000.0
+   },
+   "act": {
+    "eps": 7.4,
+    "rev": 64600000000.0,
+    "move": 2.9,
+    "moveNote": "after hours"
+   },
+   "hist": [
+    "B"
+   ],
+   "guide": "Q4 revenue $73B\u2013$76B",
+   "note": "EPS shown excludes a $9.89B legal charge; reported (GAAP) EPS was $3.83.",
+   "src": [
+    [
+     "Earnings Whispers",
+     "https://www.earningswhispers.com/epsdetails/META/202609"
+    ],
+    [
+     "MarketBeat",
+     "https://www.marketbeat.com/articles/meta-bounces-back-in-q3-but-the-bigger-test-comes-in-2027/"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "GOOGL",
+   "name": "Alphabet",
+   "sector": "AI / cloud",
+   "q": "Q3 2026",
+   "date": "2026-10-28",
+   "time": "AMC",
+   "at": "2026-10-28T16:02:00-04:00",
+   "confirmed": true,
+   "est": {
+    "eps": 3.01,
+    "rev": 127900000000.0
+   },
+   "act": {
+    "eps": 2.12,
+    "rev": 127580000000.0,
+    "move": -9.6,
+    "moveNote": "after hours"
+   },
+   "hist": [
+    "M"
+   ],
+   "note": "An $8.7B loss on equity investments hit EPS. Google Cloud revenue more than doubled to $30.7B.",
+   "src": [
+    [
+     "Kaohoon International",
+     "https://www.kaohooninternational.com/?p=593457"
+    ],
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/alphabet-googl-q3-2026-usd-eps-212-exp-303-revenue-1276bln-exp-12791bln"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "AMZN",
+   "name": "Amazon",
+   "sector": "AI / cloud",
+   "q": "Q3 2026",
+   "date": "2026-10-29",
+   "time": "AMC",
+   "at": "2026-10-29T16:05:00-04:00",
+   "confirmed": true,
+   "est": {
+    "eps": 2.01,
+    "rev": 202200000000.0
+   },
+   "act": {
+    "eps": 1.89,
+    "rev": 201900000000.0,
+    "move": null
+   },
+   "hist": [
+    "M"
+   ],
+   "guide": "Q4 sales $240B\u2013$247B",
+   "note": "AWS grew 39% to $46B, its fastest in nearly five years. The EPS miss came from below the operating line.",
+   "src": [
+    [
+     "Zacks",
+     "https://www.zacks.com/stock/news/3019798/amazon-q3-revenues-miss-estimates,-aws-growth-hits-near-5-year-high"
+    ],
+    [
+     "Newsquawk",
+     "https://www.newsquawk.com/headlines/amazoncom-inc-amzn-q3-2026-usd-eps-189-exp-197-sales-2019bln-exp-2022bln"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "PLTR",
+   "name": "Palantir",
+   "sector": "AI software",
+   "q": "Q3 2026",
+   "date": "2026-11-02",
+   "time": "AMC",
+   "at": "2026-11-02T16:05:00-05:00",
+   "confirmed": true,
+   "est": {
+    "eps": 0.41,
+    "rev": 2180000000.0
+   },
+   "act": {
+    "eps": 0.44,
+    "rev": 2310000000.0,
+    "move": null
+   },
+   "hist": [
+    "B"
+   ],
+   "guide": "Q4 revenue $2.649B\u2013$2.653B",
+   "note": "Revenue up 96%. U.S. commercial revenue passed U.S. government revenue for the first time.",
+   "src": [
+    [
+     "SiliconANGLE",
+     "https://siliconangle.com/?p=852767"
+    ],
+    [
+     "Palantir release",
+     "https://finviz.com/news/413533/palantir-reports-q3-2026-us-comm-revenue-growth-of-148-yy-and-revenue-growth-of-96-yy-raises-fy-2026-revenue-guidance-to-91-yy-growth-and-us-comm-revenue-guidance-to-143-yy-crushing-consensus-expectations"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "ARM",
+   "name": "Arm Holdings",
+   "sector": "AI chips",
+   "q": "Q2 FY27",
+   "date": "2026-11-04",
+   "time": "AMC",
+   "at": "2026-11-04T16:05:00-05:00",
+   "confirmed": true,
+   "est": {
+    "eps": 0.47,
+    "rev": 1380000000.0
+   },
+   "act": {
+    "eps": 0.52,
+    "rev": 1440000000.0,
+    "move": -2.0,
+    "moveNote": "after hours"
+   },
+   "hist": [
+    "B",
+    "B",
+    "B",
+    "B"
+   ],
+   "guide": "Q3 revenue $1.54B \u00b1$50M, EPS $0.56 \u00b1$0.04",
+   "note": "Licensing revenue jumped 50%; royalty revenue grew 8% and came in below estimates.",
+   "src": [
+    [
+     "Grafa",
+     "https://grafa.com/en/news/united-states/arm-holdings-q2-2027-revenue-rises-27-percent"
+    ],
+    [
+     "Yahoo Finance history",
+     "https://sg.finance.yahoo.com/quote/ARM/analysis/"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "VST",
+   "name": "Vistra",
+   "sector": "Power",
+   "q": "Q3 2026",
+   "date": "2026-11-06",
+   "time": "BMO",
+   "at": "2026-11-06T07:00:00-05:00",
+   "confirmed": true,
+   "est": {
+    "eps": 2.94,
+    "rev": null
+   },
+   "act": {
+    "eps": 3.23,
+    "rev": null,
+    "move": null
+   },
+   "hist": [
+    "B",
+    "M"
+   ],
+   "guide": "2027 adjusted EBITDA $7.7B\u2013$8.5B",
+   "note": "Adjusted EBITDA up more than 50%. Texas regulatory risk is still the main debate for the stock.",
+   "src": [
+    [
+     "Zacks",
+     "https://www.zacks.com/stock/news/3027394/vst-q3-earnings-beat-on-strong-power-pricing-revenues-rise-yy"
+    ],
+    [
+     "Earnings Whispers",
+     "https://finviz.com/news/418966/vistra-beats-on-a-record-ebitda-quarter-and-sets-2027-guidance-but-texas-policy-risk-now-drives-the-stock"
+    ]
+   ],
+   "watch": true
+  },
+  {
+   "t": "CRWV",
+   "name": "CoreWeave",
+   "sector": "AI cloud",
+   "q": "Q3 2026",
+   "date": "2026-11-10",
+   "time": "AMC",
+   "at": "2026-11-10T16:10:00-05:00",
+   "confirmed": true,
+   "est": {
+    "eps": -1.55,
+    "rev": 3540000000.0
+   },
+   "act": {
+    "eps": -1.27,
+    "rev": 3660000000.0,
+    "move": 5.0,
+    "moveNote": "after hours"
+   },
+   "hist": [
+    "B"
+   ],
+   "guide": "FY26 revenue $13.0B\u2013$13.3B",
+   "note": "Revenue up 168%; backlog reached $132.5B. Net loss widened on higher interest costs.",
+   "src": [
+    [
+     "24/7 Wall St.",
+     "https://247wallst.com/cards/coreweave-q3-2026-earnings-crwv-01m73msrkgrgan75a5t7tb9fmz"
+    ],
+    [
+     "Let's Data Science",
+     "https://letsdatascience.com/news/coreweave-beats-q3-revenue-estimates-raises-2026-guidance-ba-f4170a31"
+    ]
+   ],
+   "watch": true
+  }
+ ]
+}
