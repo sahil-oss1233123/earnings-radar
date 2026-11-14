@@ -196,12 +196,45 @@ footer{color:var(--muted);font-size:12px;line-height:1.5;margin:28px 6px 0}
 .src a{display:flex;justify-content:space-between;align-items:center;padding:10px 12px;border-radius:12px;background:#171e33;border:1px solid var(--line);text-decoration:none;font-size:14px}
 .src a svg{width:14px;height:14px;color:var(--muted)}
 
+/* ---------- laptop / desktop ---------- */
+@media (hover:hover){
+  .card:hover{border-color:#34406a;transform:translateY(-2px);box-shadow:0 10px 30px rgba(0,0,0,.25)}
+  .hero:hover{border-color:#3a4570}
+  .day:hover{background:#18203a}
+  .star:hover{color:var(--amber)}
+  .src a:hover{border-color:#3a4570}
+}
+@media (min-width:960px){
+  .aura{height:620px}
+  .app{max-width:1240px;display:grid;grid-template-columns:400px minmax(0,1fr);gap:40px;align-items:start;
+    padding:40px 40px 60px}
+  .sideCol{position:sticky;top:32px}
+  header{margin-top:0}
+  h1{font-size:52px}
+  .hero{margin-bottom:0}
+  .mainCol{padding-top:8px}
+  .seg{max-width:380px}
+  .cards{grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:14px}
+  .gh h2{font-size:21px}
+  .group{margin:22px 0 8px}
+  footer{max-width:640px}
+  /* detail panel becomes a side drawer */
+  .sheet{top:16px;bottom:16px;right:16px;left:auto;width:460px;max-width:none;max-height:none;margin:0;
+    border:1px solid #2a3350;border-radius:28px;padding:20px 24px 28px;transform:translateX(calc(100% + 32px))}
+  .sheet.on{transform:translateX(0)}
+  .grab{display:none}
+}
+@media (min-width:1400px){
+  .app{max-width:1360px;grid-template-columns:420px minmax(0,1fr)}
+}
+
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
 </style>
 </head>
 <body>
 <div class="aura" aria-hidden="true"></div>
 <main class="app">
+ <div class="sideCol">
   <header>
     <div>
       <div class="eyebrow" id="updated">Loading…</div>
@@ -215,6 +248,8 @@ footer{color:var(--muted);font-size:12px;line-height:1.5;margin:28px 6px 0}
 
   <section class="summary" id="summary" aria-label="Season summary"></section>
   <section id="hero"></section>
+ </div>
+ <div class="mainCol">
 
   <div class="seg" id="seg" role="tablist" data-tab="upcoming">
     <span class="pill" aria-hidden="true"></span>
@@ -227,6 +262,7 @@ footer{color:var(--muted);font-size:12px;line-height:1.5;margin:28px 6px 0}
   <footer id="foot">
     Expected figures are analyst consensus (adjusted EPS) from public sources, or the company's own guidance where noted. Results fill in after each company reports. Not investment advice.
   </footer>
+ </div>
 </main>
 
 <div class="scrim" id="scrim"></div>
